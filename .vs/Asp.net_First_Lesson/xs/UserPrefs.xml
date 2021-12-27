@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2604D705-59CD-497C-A1BF-BA81B221948D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Asp.net_First_Lesson/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Asp.net_First_Lesson/Controllers/HomeController.cs" Line="47" Column="27" />
+      <File FileName="Asp.net_First_Lesson/Views/home/Index.cshtml" Line="2" Column="33" />
+      <File FileName="Asp.net_First_Lesson/Views/home/getlayout.cshtml" Line="2" Column="37" />
+      <File FileName="Asp.net_First_Lesson/Views/home/GetAbout.cshtml" Line="2" Column="36" />
+      <File FileName="Asp.net_First_Lesson/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Asp.net_First_Lesson/Views/Shared/_Layout.cshtml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Asp.net_First_Lesson" expanded="True">
+            <Node name="Asp.net_First_Lesson" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Asp.net__First__Lesson PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
